@@ -19,6 +19,7 @@
 * MEXICO:	Mexico, lat=19.4
   
 ### Asia
+* HKG:	Hong-Kong, lat=22.317 
 * SING:	Singapore, lat=1.37
   
 All sky model pictures for a specific location are stored into a single tar file. 
