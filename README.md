@@ -8,6 +8,7 @@
 ### Europe
 * ATHENS:	Athens, Greece, lat=37.967
 * BERLIN:	Berlin, Germany, lat=52.47
+* DELFT:	Delft, Holland, lat=52.0001
 * HEL:	Helsinki, Finnland, lat=60.19
 * LDN:	London, UK, lat=51.517
   
