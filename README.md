@@ -21,12 +21,13 @@
   
 ### Asia
 * HKG:	Hong-Kong, lat=22.317 
+* MUMBAI:	Mumbai, IN, lat=19.117
 * SING:	Singapore, lat=1.37
   
 All sky model pictures for a specific location are stored into a single tar file. 
 Sky model pictures are named **LLLLXX.pic** where LLL refers to the location as abbreviated above
 and XX to the time period over which the cumulative sky model is calculated (either months referred as **01** for January, **02** for February, ...
-or **00** for the full year). For locations where a heating season can be identified (all days for which the mean outdoor temperature <=12C),
+or **00** for the full year). For locations where a heating season can be identified (all days for which the mean outdoor temperature <=12°C),
 two additional sky models are provided: **HH** for the heating season and **SS** for all other days.
 
-All these sky model pictures have been generated from irradiation data provided by [Meteonorm](http://www.meteonorm.com/) software.
+All these sky model pictures have been generated from irradiation data provided by [Meteonorm](http://www.meteonorm.com/en/) software.
