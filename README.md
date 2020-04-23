@@ -22,6 +22,7 @@
 ### Asia
 * HKG:	Hong-Kong, lat=22.317 
 * MUMBAI:	Mumbai, IN, lat=19.117
+* SEOUL:	Seoul, KR, lat=37.567
 * SING:	Singapore, lat=1.37
   
 All sky model pictures for a specific location are stored into a single tar file. 
