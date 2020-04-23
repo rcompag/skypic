@@ -1,6 +1,7 @@
 # Sky model pictures (300x300 pixels) for the following cities:
   
 ### Switzerland
+* BAS:	Basel, Switzerland, lat=47.33
 * BIEL:	Biel, Switzerland, lat=47.1416
 * FRIB:	Fribourg, Switzerland, lat=46.804
 * GVA:	Geneva, Switzerland, lat=46.2447
@@ -11,6 +12,7 @@
 * DELFT:	Delft, Holland, lat=52.0001
 * HEL:	Helsinki, Finnland, lat=60.19
 * LDN:	London, UK, lat=51.517
+* VENEZIA:	Venezia, Italy, lat=45.5
   
 ### North America
 * DENVER: Denver, USA, lat=39.83
@@ -21,8 +23,9 @@
   
 ### Asia
 * HKG:	Hong-Kong, lat=22.317 
-* MUMBAI:	Mumbai, IN, lat=19.117
-* SEOUL:	Seoul, KR, lat=37.567
+* MUMBAI:	Mumbai, India, lat=19.117
+* SEOUL:	Seoul, South Korea, lat=37.567
+
 * SING:	Singapore, lat=1.37
   
 All sky model pictures for a specific location are stored into a single tar file. 
